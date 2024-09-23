@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../bin"
+		},
+		{
+			"path": "../../Models"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../packages"
+		},
+		{
+			"path": "../../Properties"
+		}
+	]
+}

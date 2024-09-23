@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\table1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\table1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\table2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\table2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|c:\\users\\smart\\desktop\\trial\\geoffrey muchangi\\models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\models\\table3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABAB72-A151-48B0-8ADA-999BE77069CB}|Geoffrey Muchangi.csproj|solutionrelative:models\\table3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table1.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table1.cs",
+              "RelativeDocumentMoniker": "Models\\Table1.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table1.cs",
+              "RelativeToolTip": "Models\\Table1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:36:13.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Table2.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table2.cs",
+              "RelativeDocumentMoniker": "Models\\Table2.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table2.cs",
+              "RelativeToolTip": "Models\\Table2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:37:34.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\App.config",
+              "RelativeDocumentMoniker": "Models\\App.config",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\App.config",
+              "RelativeToolTip": "Models\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T12:57:47.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:21:48.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.cs",
+              "RelativeDocumentMoniker": "Models\\Form1.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.cs",
+              "RelativeToolTip": "Models\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:40:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.cs",
+              "RelativeDocumentMoniker": "Models\\Form1.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.cs [Design]",
+              "RelativeToolTip": "Models\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:37:49.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:08:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\DBContext.cs",
+              "RelativeToolTip": "Models\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:42:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Models\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Form1.Designer.cs",
+              "RelativeToolTip": "Models\\Form1.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAjwGYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:54:32.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table3.cs",
+              "DocumentMoniker": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table3.cs",
+              "RelativeDocumentMoniker": "Models\\Table3.cs",
+              "ToolTip": "C:\\Users\\Smart\\Desktop\\Trial\\Geoffrey Muchangi\\Models\\Table3.cs",
+              "RelativeToolTip": "Models\\Table3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:40:20.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

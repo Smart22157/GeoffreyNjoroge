@@ -1,0 +1,16 @@
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey Muchangi.csproj.AssemblyReference.cache
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey_Muchangi.Properties.Resources.resources
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey Muchangi.csproj.GenerateResource.cache
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey Muchangi.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\Geoffrey Muchangi.exe
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\Geoffrey Muchangi.pdb
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\EntityFramework.dll
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\EntityFramework.xml
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey.6D42EE27.Up2Date
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey Muchangi.exe
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey Muchangi.pdb
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\obj\Debug\Geoffrey_Muchangi.Models.Form1.resources
+C:\Users\Smart\Desktop\Trial\Geoffrey Muchangi\bin\Debug\Geoffrey Muchangi.exe.config
